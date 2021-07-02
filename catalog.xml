@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:8080/CurrencyConvertor/CurrencyConversionWSService?wsdl" uri="xml-resources/web-service-references/CurrencyConversionWSService/wsdl/localhost_8080/CurrencyConvertor/CurrencyConversionWSService.wsdl"/>
+    <system systemId="http://localhost:8080/CurrencyConvertor/CurrencyConversionWSService?xsd=1" uri="xml-resources/web-service-references/CurrencyConversionWSService/wsdl/localhost_8080/CurrencyConvertor/CurrencyConversionWSService.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/SharesWebService/SharesWebService?wsdl" uri="xml-resources/web-service-references/SharesWebService/wsdl/localhost_8080/SharesWebService/SharesWebService.wsdl"/>
+    <system systemId="http://localhost:8080/SharesWebService/SharesWebService?xsd=1" uri="xml-resources/web-service-references/SharesWebService/wsdl/localhost_8080/SharesWebService/SharesWebService.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/SharesWebService/SharesWebService?xsd=2" uri="xml-resources/web-service-references/SharesWebService/wsdl/localhost_8080/SharesWebService/SharesWebService.xsd_2.xsd"/>
+</catalog>
